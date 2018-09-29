@@ -1,0 +1,26 @@
+{
+  "name": "kops-construct-app",
+  "version": "1.0.0",
+  "description": "kops-construct",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rish1508/kops-construct.git"
+  },
+  "keywords": [
+    "k8s-construct"
+  ],
+  "author": "Rishabh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rish1508/kops-construct/issues"
+  },
+  "homepage": "https://github.com/rish1508/kops-construct#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "git": "^0.1.5"
+  }
+}
